@@ -1,0 +1,24 @@
+.contenedor {
+	display: flex;
+	border:10px solid goldenrod;
+	/*min-height: 100vh;*/
+	flex-direction: row;
+}
+
+.box1{background: #34495e}
+.box2{background: #f1c40f}
+.box3{background: #e67e22}
+.box4{background: #e74c3c}
+.box5{background: #bdc3c7}
+.box6{background: #2ecc71}
+.box7{background: #16a085}
+.box8{background: blue}
+.box9{background: red}
+
+.box{
+	color:white;
+	font-size: 100px;
+	text-align: center;
+	text-shadow: 4px 4px 0 rgba(0,0,0,0.1);
+	padding: 10px;
+}
